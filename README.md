@@ -1,2 +1,4 @@
 # text2025
-Proyecto para conectar con vscode
+Proyecto para conectar con vscode.
+
+Fichero modificado
